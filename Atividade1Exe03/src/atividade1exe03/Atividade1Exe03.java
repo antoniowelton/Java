@@ -73,7 +73,7 @@ public class Atividade1Exe03 {
                 System.out.println("Total de hóspedes: " + (contHospede) + " , sendo: ");
                 System.out.println("Inteiras:" + (contHospede - contMeia - contGratuidade));
                 System.out.println("Gratuidades: " + (contGratuidade));
-                System.out.println("Meia(s: " + (contMeia));  
+                System.out.println("Meia(s): " + (contMeia));  
                 
                 
                 System.out.println("-----------------------------------------------------------------------------------------------");
